@@ -2,7 +2,7 @@
 
 
 
-## Assembly and annotation scripts \
+## Assembly and annotation scripts
 
 Location on GitHub: folder Assembly and annotation
 
