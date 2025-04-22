@@ -1,5 +1,12 @@
 # Population and evolutionary genomics of three Anthophora species
 
+
+
+## Assembly and annotation scripts \
+
+Location on GitHub: folder Assembly and annotation
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 # Data preparation
 
 ## SNP calling and filtering
